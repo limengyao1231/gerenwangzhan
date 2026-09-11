@@ -1,0 +1,13 @@
+Port 5173 is in use, trying another one...
+
+  VITE v7.3.6  ready in 359 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://26.224.117.91:5174/
+  ➜  Network: http://10.117.124.155:5174/
+  ➜  Network: http://192.168.137.1:5174/
+  ➜  press h + enter to show help
+06:57:31 [vite] vite.config.js changed, restarting server...
+06:57:31 [vite] server restarted.
+06:57:54 [vite] vite.config.js changed, restarting server...
+06:57:54 [vite] server restarted.
